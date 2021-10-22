@@ -28,7 +28,7 @@ Make three challenges each for the player to solve
 
 ✔️ Solution:
 
-I decided to do a 3d-game with A-frame and JavScript. I created this "night and dark" 3d-environment background and added some cool objects, like an old factory and lots of oil barrels. The theme for my game is to "save the world". The game idéa is to remove toxic oil barrels and found out the secret code inside the factory.
+I decided to do a 3d-game with A-frame and JavaScript. I created this "night and dark" 3d-environment background and added some cool objects, like an old factory and lots of oil barrels. The theme for my game is to "save the world". The game idéa is to remove toxic oil barrels and found out the secret code inside the factory.
 
 📕 Learnings:
 
